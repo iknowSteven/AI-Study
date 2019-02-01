@@ -15,6 +15,15 @@
 
 
 
+#### Classification (20190201 업데이트 예정)
+
+1. [이론]()
+
+2. [Lab]()
+3. 
+
+
+
 ###### 참고문헌
 
 Hands-On Machine Learning with Scikit-Learn & TensorFlow, 오렐리앙 제롱
