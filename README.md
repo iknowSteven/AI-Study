@@ -11,7 +11,8 @@
 1. [머신러닝의 정의](https://github.com/iknowSteven/AI-Study/blob/master/A1.md)
 2. [머신러닝 시스템의 종류](https://github.com/iknowSteven/AI-Study/blob/master/A2.md)
 3. [머신러닝 알고리즘이 중요한가, 데이터가 중요한가? ](https://github.com/iknowSteven/AI-Study/blob/master/A3.md)
-4. [머신러닝 시스템의 테스트와 검증법]()
+4. [데이터셋 오류의 종류](https://github.com/iknowSteven/AI-Study/blob/master/A4.md)
+5. [머신러닝 시스템의 테스트와 검증법](https://github.com/iknowSteven/AI-Study/blob/master/A5.md)
 
 
 
