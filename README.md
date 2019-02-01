@@ -19,7 +19,9 @@
 
 Hands-On Machine Learning with Scikit-Learn & TensorFlow, 오렐리앙 제롱
 
-모두를 위한 머신러닝/딥러닝 강의, 김성훈(https://hunkim.github.io/ml/)
+[모두를 위한 머신러닝/딥러닝 강의(김성훈)](https://hunkim.github.io/ml/)
+
+[Nvidia 공식 블로그](https://blogs.nvidia.co.kr/)
 
 
 
