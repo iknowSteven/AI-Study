@@ -6,11 +6,12 @@
 
 향후에 Pillow Studio 팀에 들어올 팀원, 머신러닝을 내 아이템에 적용시켜볼 스타트업 대표님들이 보았으면 좋겠습니다. 미적분, 선형대수, 통계 등의 수학이론과 컴퓨터 사이언스에 대한 지식이 처음에 없어도 차근차근 따라가다보면 이해할 수 있도록 정리해보겠습니다.
 
-### 머신러닝 Fast View (20190201 업데이트)
+### 머신러닝 Fast View (20190201 업데이트 예정)
 
-1. [머신러닝 시스템의 종류](https://github.com/iknowSteven/AI-Study/blob/master/A1.md)
-2. [머신러닝 알고리즘이 중요한가, 데이터가 중요한가? ](https://github.com/iknowSteven/AI-Study/blob/master/A2.md)
-3. [머신러닝 시스템의 테스트와 검증법]()
+1. [머신러닝의 정의](https://github.com/iknowSteven/AI-Study/blob/master/A1.md)
+2. [머신러닝 시스템의 종류](https://github.com/iknowSteven/AI-Study/blob/master/A2.md)
+3. [머신러닝 알고리즘이 중요한가, 데이터가 중요한가? ](https://github.com/iknowSteven/AI-Study/blob/master/A3.md)
+4. [머신러닝 시스템의 테스트와 검증법]()
 
 
 
