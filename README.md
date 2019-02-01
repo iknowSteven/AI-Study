@@ -8,7 +8,7 @@
 
 ### 머신러닝 Fast View (20190201 업데이트)
 
-1.  
+1. [머신러닝 알고리즘이 중요한가, 데이터가 중요한가? ](https://github.com/iknowSteven/AI-Study/blob/master/A1.md)
 
 
 
