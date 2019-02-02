@@ -18,6 +18,8 @@
 
 ## B. 머신러닝 Project A-Z
 <br/><br/><br/>
+1. [들어가기에 앞서](https://github.com/iknowSteven/AI-Study/blob/master/B/B1.md)
+
 
 ## Classification (20190203 업데이트 예정)
 
