@@ -8,12 +8,15 @@
 #### 이 문서는 참고문헌을 공부하면서 정리한 내용입니다. 보다 자세하게 공부하고 싶으시다면, 참고문헌들을 직접 읽어보는 것을 추천합니다.
 <br/><br/><br/>
 
-## 머신러닝 Fast View
+## A. 머신러닝 Fast View
 1. [머신러닝의 정의](https://github.com/iknowSteven/AI-Study/blob/master/A/A1.md)
 2. [머신러닝 시스템의 종류](https://github.com/iknowSteven/AI-Study/blob/master/A/A2.md)
 3. [머신러닝 알고리즘이 중요한가, 데이터가 중요한가? ](https://github.com/iknowSteven/AI-Study/blob/master/A/A3.md)
 4. [데이터셋 오류의 종류](https://github.com/iknowSteven/AI-Study/blob/master/A/A4.md)
 5. [머신러닝 시스템의 테스트와 검증법](https://github.com/iknowSteven/AI-Study/blob/master/A/A5.md)
+<br/><br/><br/>
+
+## B. 머신러닝 Project A-Z
 <br/><br/><br/>
 
 ## Classification (20190203 업데이트 예정)
